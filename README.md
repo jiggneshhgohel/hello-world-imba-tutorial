@@ -8,5 +8,5 @@ Following this tutorial one would end up learning a lot of new things, reference
 
 ### Audience
 
-This tutorial is targeted towards developers novice to Node-JS domain and related tools esp Webpack and also who would like to get started with [Imba](http://imba.io/) - a new programming language for the web.
+This tutorial is targeted towards developers novice to Node-JS domain and related tools, esp Webpack, and also who would like to get started with [Imba](http://imba.io/) - a new programming language for the web.
 
